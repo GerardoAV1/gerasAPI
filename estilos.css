@@ -1,0 +1,16 @@
+.imagenProducto{
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    display: block;
+    margin: 0px auto;
+}
+.Titulo{
+    text-align: center;
+    Color: green;
+    
+}
+.container{
+    padding-top: 5%;
+}
+
